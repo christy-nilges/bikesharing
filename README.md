@@ -7,6 +7,7 @@ This project is an analysis of New York Citi Bike August 2019 data, using data v
 ### Tableau Analysis
 
 [link to dashboard](https://public.tableau.com/authoring/NYCBikeFinal/TripsbyGenderbyWeekday/NYC%20Bike%20Dashboard#1)
+[link to story](https://public.tableau.com/authoring/NYCBikeFinal/TripsbyGenderbyWeekday/NYC%20Bike%20Final%20Presentation#1)
 
 #### New York Citi Bike data visualizations for August 2019
 
